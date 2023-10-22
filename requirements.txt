@@ -1,0 +1,6 @@
+#python>= 3.7!
+
+ultralytics
+deep-sort-realtime
+OpenCV
+
